@@ -1,0 +1,10 @@
+<resources>
+    <style name="FabCustomShape" parent="Widget.MaterialComponents.FloatingActionButton">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">16dp</item> <!-- Adjust the corner radius -->
+    </style>
+    <style name="CustomTimePicker" parent="Theme.MaterialComponents.DayNight">
+        <item name="android:textColor">@color/alarm_color</item>
+    </style>
+
+</resources>
